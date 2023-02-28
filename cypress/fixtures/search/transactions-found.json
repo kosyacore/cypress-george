@@ -1,0 +1,35 @@
+{
+    "username": "107675017",
+    "password": "1111111",
+    "searchTerm": "Fashion",
+    "transactions": [
+        {
+            "title": "Withdrawal",
+            "bookingDetails": "SB-Transaktion",
+            "category": "Fashion",
+            "date": "10. November 2022",
+            "amount": "- € 60,00"
+        },
+        {
+            "title": "Hofer",
+            "bookingDetails": "SB-Transaktion",
+            "category": "Fashion",
+            "date": "8. November 2022",
+            "amount": "- € 57,67"
+        },
+        {
+            "title": "Magenta",
+            "bookingDetails": "SB-Transaktion",
+            "category": "Fashion",
+            "date": "8. November 2022",
+            "amount": "- € 607,99"
+        },
+        {
+            "title": "Hugo Boss",
+            "bookingDetails": "Test",
+            "category": "Fashion",
+            "date": "8. November 2022",
+            "amount": "- € 89,00"
+        }
+    ]
+}

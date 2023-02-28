@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "types": [
+            "cypress",
+            "node",
+            "@badeball/cypress-cucumber-preprocessor"
+        ],
+        "paths": {
+            "@pages/*": [
+                "cypress/pages/*"
+            ],
+            "@step-definitions/*": [
+                "cypress/step-definitions/*"
+            ],
+            "@customTypes/*": [
+                "cypress/types/*"
+            ],
+        },
+        "esModuleInterop": true,
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
